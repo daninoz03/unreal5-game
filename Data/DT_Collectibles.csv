@@ -1,0 +1,41 @@
+ID,Type,Area,Description,LocationHint
+SE_Grove_01,SpiritEssence,SacredGrove,Vista overlook edge,Easy - tutorial placement
+SE_Grove_02,SpiritEssence,SacredGrove,Climbing section side ledge,Easy
+SE_Grove_03,SpiritEssence,SacredGrove,Stream area rope swing,Medium - requires rope swing
+SE_Grove_04,SpiritEssence,SacredGrove,Fallen tree branch,Medium
+SE_Grove_05,SpiritEssence,SacredGrove,Combat arena post-fight,Easy
+SE_Grove_06,SpiritEssence,SacredGrove,Shrine clearing 1,Easy
+SE_Grove_07,SpiritEssence,SacredGrove,Shrine clearing 2,Easy
+SE_Grove_08,SpiritEssence,SacredGrove,Waterfall secret area,Medium - hidden
+LS_Grove_01,LoreStone,SacredGrove,Introduction to Guardians,Stream bank
+LS_Grove_02,LoreStone,SacredGrove,Guardian-forest bond,Combat arena post-fight
+LS_Grove_03,LoreStone,SacredGrove,The first departure,Beam puzzle room
+LS_Grove_04,LoreStone,SacredGrove,The growing exodus,Shrine clearing
+GR_Grove_01,GuardianRelic,SacredGrove,First relic,Waterfall cave - hidden entrance
+SE_Ruins_01,SpiritEssence,AncientRuins,Entrance Hall 1,Post-combat
+SE_Ruins_02,SpiritEssence,AncientRuins,Entrance Hall 2,Post-combat
+SE_Ruins_03,SpiritEssence,AncientRuins,Water Puzzle 1,Along path
+SE_Ruins_04,SpiritEssence,AncientRuins,Water Puzzle 2,Along path
+SE_Ruins_05,SpiritEssence,AncientRuins,Water Puzzle 3,Along path
+SE_Ruins_06,SpiritEssence,AncientRuins,Symbol Room 1,Easy
+SE_Ruins_07,SpiritEssence,AncientRuins,Symbol Room 2,Medium
+SE_Ruins_08,SpiritEssence,AncientRuins,Guardian Home 1,Easy
+SE_Ruins_09,SpiritEssence,AncientRuins,Guardian Home 2,Easy
+SE_Ruins_10,SpiritEssence,AncientRuins,Guardian Home 3,Easy
+SE_Ruins_11,SpiritEssence,AncientRuins,Archives,Medium
+SE_Ruins_12,SpiritEssence,AncientRuins,Collapsed Lower Level,Hard - secret area
+LS_Ruins_05,LoreStone,AncientRuins,Council debates,Inner Courtyard
+LS_Ruins_06,LoreStone,AncientRuins,The decline begins,Water Puzzle area
+LS_Ruins_07,LoreStone,AncientRuins,Exodus accelerates,Guardian Homes
+LS_Ruins_08,LoreStone,AncientRuins,The last meeting,Council Chamber
+LS_Ruins_09,LoreStone,AncientRuins,Elenas departure,Archives
+GR_Ruins_01,GuardianRelic,AncientRuins,Second relic,Archives hidden room
+SE_Heart_01,SpiritEssence,HeartOfForest,Combat Path 1,Post-gauntlet
+SE_Heart_02,SpiritEssence,HeartOfForest,Combat Path 2,Post-gauntlet
+SE_Heart_03,SpiritEssence,HeartOfForest,Puzzle Path 1,Along platforms
+SE_Heart_04,SpiritEssence,HeartOfForest,Puzzle Path 2,Along platforms
+SE_Heart_05,SpiritEssence,HeartOfForest,Secret Area,Hard - hidden
+LS_Heart_10,LoreStone,HeartOfForest,Warning about Blight,Puzzle Path Platform 3
+LS_Heart_11,LoreStone,HeartOfForest,Hearts loneliness,Memorial Chamber
+LS_Heart_12,LoreStone,HeartOfForest,Grandmothers message,Before boss arena
+GR_Heart_01,GuardianRelic,HeartOfForest,Third relic,Secret area from Memorial

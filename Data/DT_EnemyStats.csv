@@ -1,0 +1,5 @@
+Name,Health,AttackDamage,AttackRange,DetectionRange,MoveSpeed,AttackCooldown
+BlightedWolf,40,15,150,1000,600,2.0
+BlightedWolfAlpha,80,20,180,1200,550,1.5
+CorruptedTreant,150,30,200,800,200,3.0
+BlightedHeart,500,35,300,2000,0,2.5

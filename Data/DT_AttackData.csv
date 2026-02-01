@@ -1,0 +1,7 @@
+Name,Damage,StaminaCost,Range,Radius,ComboWindowStart,ComboWindowEnd
+LightAttack1,15,10,150,30,0.3,0.6
+LightAttack2,15,10,150,30,0.25,0.55
+LightAttack3,20,10,180,40,0.0,0.0
+HeavyAttack,35,25,180,50,0.0,0.0
+ChargedHeavyAttack,50,40,200,70,0.0,0.0
+DodgeAttack,20,15,150,30,0.0,0.0
